@@ -30,7 +30,7 @@ The dashboard helps understand:
 - Lower employee satisfaction is associated with higher attrition.
 - Most employees leave after spending several years in the company.
 
----
+
 
  Files Included
 
