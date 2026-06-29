@@ -1,6 +1,6 @@
-# HR Analytics Dashboard
+ HR Analytics Dashboard
 
-## 📌 Overview
+  Overview
 
 This project analyzes employee attrition using Power BI.
 
@@ -12,22 +12,18 @@ The dashboard helps understand:
 - Years spent in the company
 - Average monthly working hours
 
----
 
-## 🛠 Tools Used
+
+ Tools Used
 
 - Microsoft Power BI
 - Microsoft Excel
 
----
 
-## 📊 Dashboard Preview
+ Dashboard Preview
 
-(We'll add the screenshot here.)
 
----
-
-## 📈 Key Insights
+ Key Insights
 
 - Employees with low salaries have the highest attrition.
 - Sales department has the highest employee turnover.
@@ -36,7 +32,7 @@ The dashboard helps understand:
 
 ---
 
-## 📂 Files Included
+ Files Included
 
 - HR Analytics Dashboard.pbix
 - HR_Employee_Attrition.xlsx
